@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1013859316828",
+    "project_id": "maptracking-a55c5",
+    "storage_bucket": "maptracking-a55c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013859316828:android:ce48ec987f6fd7d1aaa299",
+        "android_client_info": {
+          "package_name": "com.jagan.bustracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013859316828-4j12847pec1hdh3jkg41krt1cp8ru5ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOAnGxHW-WBbX1kGjJ7hsmUKHGmz88U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013859316828-4j12847pec1hdh3jkg41krt1cp8ru5ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013859316828:android:40a6b4fe9b01bfbeaaa299",
+        "android_client_info": {
+          "package_name": "com.jagan.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013859316828-4j12847pec1hdh3jkg41krt1cp8ru5ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOAnGxHW-WBbX1kGjJ7hsmUKHGmz88U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013859316828-4j12847pec1hdh3jkg41krt1cp8ru5ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

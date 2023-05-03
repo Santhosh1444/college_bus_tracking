@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="Theme.BusTracking.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/dark_blue2</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/applogo</item>
+        <item name="postSplashScreenTheme">@style/Theme.BusTracking</item>
+        <item name="windowSplashScreenAnimationDuration">3000</item>
+    </style>
+</resources>
